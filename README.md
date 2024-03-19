@@ -1,2 +1,1 @@
-# Curso-Henry
-Este es un repositorio de prueba del modulo2 en el  prepcoruse de Henry
+Este repositorio es una prueba de como puedo descargar mi primer repositorio de Git Hub a mi computadoras
